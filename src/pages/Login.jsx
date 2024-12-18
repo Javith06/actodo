@@ -67,7 +67,7 @@ function Login(props)
             onChange={handleUInput}/>
             
 
-            <input type="text"
+            <input type="password"
             className="w-52 border-black p-1 bg-transparent border rounded-md"
             placeholder="Password"
             onChange={handlePInput}/>
